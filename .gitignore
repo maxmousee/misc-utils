@@ -1,2 +1,5 @@
 *.class
 *.log
+*.kotlin_module
+/target
+/project/target
