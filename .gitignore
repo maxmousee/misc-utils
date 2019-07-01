@@ -3,3 +3,4 @@
 *.kotlin_module
 /target
 /project/target
+*.DS_Store
