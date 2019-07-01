@@ -1,7 +1,7 @@
 *.class
 *.log
 *.kotlin_module
-/target
-/project/target
+/scala-text-lines-counter/target
+/scala-text-lines-counter/project/target
 *.DS_Store
 .idea/
